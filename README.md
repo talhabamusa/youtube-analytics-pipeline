@@ -47,9 +47,12 @@ My takeaway: smaller, more dedicated audiences engage more per view than mass-ap
 
 ## Dashboard
 
- ![Overview tab](images/dashboard-overview.png) 
- ![By Category tab](images/dashboard-category.png) 
- ![By Country tab](images/dashboard-country.png)
+ ![views-vs-engagement overview](images/views%20vs%20engagement%20rate%20by%20category.png) 
+ ![engagement rate trend over time overview](images/engagement%20rate%20trend%20over%20time.png)
+ ![engagement rate by Category](images/top%20categories%20by%20engagement%20rate.png) 
+ ![view count rankings across categories](images/top%20categories%20by%20average%20views.png)
+ ![engagement rate comparison by country](images/engagement%20rate%20by%20country.png)
+
 
 The dashboard is organized into four tabs:
 - **Overview** — a views-vs-engagement bubble scatter plot (bubble size = video count) and an engagement rate trend over time
