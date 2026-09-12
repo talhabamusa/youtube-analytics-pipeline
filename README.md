@@ -14,14 +14,8 @@ It combines a large historical dataset with live YouTube API data, cleans and lo
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    A[Kaggle Dataset] --> C[Pandas Cleaning]
-    B[YouTube Data API] --> C
-    C --> D[(PostgreSQL)]
-    D --> E[SQL Analysis]
-    E --> F[Streamlit Dashboard]
-```
+![Architecture](images/architecture.png)
+
 
 ## Dataset at a glance
 
