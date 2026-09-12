@@ -78,6 +78,7 @@ youtube-analytics-pipeline/
 ├── data/
 │   ├── raw/            # Kaggle CSVs + category JSON mappings (gitignored)
 │   └── processed/
+├── images/
 ├── notebooks/
 │   └── 01_explore_data.ipynb
 ├── sql/
